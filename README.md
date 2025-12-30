@@ -11,5 +11,5 @@ Features:
 -An outstanding and eye catching view.
 
 How to run this project:
-Open home.html on your browser.
+Open munchies.html on your browser.
 
